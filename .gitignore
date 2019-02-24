@@ -1,6 +1,7 @@
 
 # ext
 *.csv
+*.ipynb
 
 # files
 
