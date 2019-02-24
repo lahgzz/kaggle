@@ -6,4 +6,5 @@
 # files
 
 # folders
-zip
+.ipynb_checkpoints/
+zip/
