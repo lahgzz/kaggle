@@ -1,8 +1,10 @@
 
 # ext
 *.csv
+*.ipynb
 
 # files
 
 # folders
-zip
+.ipynb_checkpoints/
+zip/
